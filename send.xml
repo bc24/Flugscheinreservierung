@@ -1,6 +1,16 @@
-<?xml version="1"?>
-<atm>
-	<cardnummer>637647346</cardnummer>
-	<pincode>3424</pincode>
-	<amount>500</amount>
-</atm>
+<?xml version="1.0"?>
+<tickets>
+	<pasengers>2</pasengers>
+	<!-- Travel -->
+	<travel_day>1</travel_day>
+	<travel_month>4</travel_month>
+	<travel_year>2020</travel_year>
+	<airport_start>bre</airport_start>
+	<airport_dest>fra</airport_dest>
+	<!-- Return -->
+	<return_day>15</return_day>
+	<return_month>4</return_month>
+	<return_year>2020</return_year>
+	<airport_start>fra</airport_start>
+	<airport_dest>bre</airport_dest>
+</tickets>
