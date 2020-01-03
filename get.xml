@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flights>
+	<tickets>
+		<pasengers>2</pasengers>
+		<!-- Travel -->
+		<travel>
+			<time>17:30</time>
+			<day>1</day>
+			<month>4</month>
+			<year>2020</year>
+			<airport_start>bre</airport_start>
+			<airport_dest>fra</airport_dest>
+			<airline>LH</airline>
+			<price>100</price>
+			<nonstop>true</nonstop>
+		</travel>
+		<!-- Return -->
+		<return>
+			<time>10:30</time>
+			<day>15</day>
+			<month>4</month>
+			<year>2020</year>
+			<airport_start>fra</airport_start>
+			<airport_dest>bre</airport_dest>
+			<airline>LH</airline>
+			<price>50</price>
+			<nonstop>true</nonstop>
+		</return>
+	</tickets>
+</flights>

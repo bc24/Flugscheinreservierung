@@ -1,0 +1,15 @@
+{
+  "tickets": {
+    "pasengers": 2,
+    "travel_day": 1,
+    "travel_month": 4,
+    "travel_year": 2020,
+    "airport_start": "bre",
+    "airport_dest": "fra",
+    "return_day": 15,
+    "return_month": 4,
+    "return_year": 2020,
+    "return_airport_start": "fra",
+    "return_airport_dest": "bre"
+  }
+}

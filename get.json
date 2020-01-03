@@ -1,0 +1,29 @@
+{
+  "flights": {
+    "tickets": {
+      "pasengers": "2",
+      "travel": {
+        "time": "17:30",
+        "day": "1",
+        "month": "4",
+        "year": "2020",
+        "airport_start": "bre",
+        "airport_dest": "fra",
+        "airline": "LH",
+        "price": "100",
+        "nonstop": "true"
+      },
+      "return": {
+        "time": "10:30",
+        "day": "15",
+        "month": "4",
+        "year": "2020",
+        "airport_start": "fra",
+        "airport_dest": "bre",
+        "airline": "LH",
+        "price": "50",
+        "nonstop": "true"
+      }
+    }
+  }
+}

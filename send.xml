@@ -11,6 +11,6 @@
 	<return_day>15</return_day>
 	<return_month>4</return_month>
 	<return_year>2020</return_year>
-	<airport_start>fra</airport_start>
-	<airport_dest>bre</airport_dest>
+	<return_airport_start>fra</return_airport_start>
+	<return_airport_dest>bre</return_airport_dest>
 </tickets>
